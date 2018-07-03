@@ -7,7 +7,7 @@ Summary:	Strict, simple, lightweight RFC3339 functions for Python 2
 Summary(pl.UTF-8):	Ścisłe, proste, lekkie funkcje RFC3339 dla Pythona 2
 Name:		python-strict_rfc3339
 Version:	0.7
-Release:	1
+Release:	2
 License:	GPL v3+
 Group:		Libraries/Python
 #Source0Download: https://pypi.python.org/simple/strict-rfc3339/

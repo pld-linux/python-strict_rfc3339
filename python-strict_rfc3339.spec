@@ -10,10 +10,10 @@ Version:	0.7
 Release:	3
 License:	GPL v3+
 Group:		Libraries/Python
-#Source0Download: https://pypi.python.org/simple/strict-rfc3339/
+#Source0Download: https://pypi.org/simple/strict-rfc3339/
 Source0:	https://files.pythonhosted.org/packages/source/s/strict-rfc3339/strict-rfc3339-%{version}.tar.gz
 # Source0-md5:	4d9b635b4df885bc37bc1189d66c9abc
-URL:		https://pypi.python.org/pypi/strict-rfc3339/
+URL:		https://pypi.org/project/strict-rfc3339/
 %if %{with python2}
 BuildRequires:	python-devel >= 1:2.5
 BuildRequires:	python-modules >= 1:2.5
